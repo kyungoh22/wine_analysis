@@ -4,7 +4,7 @@
 
 ### Premise of the project
 
-- BlueBerry Winery's team, a start-up wine maker in Portugal, has approached us to help them build a Wine Quality Analytics System. The goal is to help them determine the quality of the wines produced based on their composition.
+- BlueBerry Winery's team, a start-up wine maker in Portugal, has approached us to help them build a Wine Quality Analytics System. The goal is to determine the quality of the wines produced based on their composition.
 - We have separate datasets for white and red wine samples. 
 - Each row provides us with the chemical compositions of the wine, as well as the quality rating (out of 10) given by a wine expert. 
 
